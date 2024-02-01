@@ -12,6 +12,7 @@ Google uses this application to demonstrate the use of technologies like
 Kubernetes, GKE, Istio, Stackdriver, and gRPC. This application
 works on any Kubernetes cluster, like Google
 Kubernetes Engine (GKE). It’s **easy to deploy with little to no configuration**.
+hi
 
 If you’re using this demo, please **★Star** this repository to show your interest!
 
